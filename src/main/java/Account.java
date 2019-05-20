@@ -1,5 +1,3 @@
-package account;
-
 import java.util.Objects;
 
 public class Account {
